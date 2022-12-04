@@ -6,17 +6,9 @@ This is the source code for Onwebs which was a client of mine, designed using Fi
 
 ## Installation
 
-To install and run the project, follow these steps:
-
-1. Clone the repository:
+To install and run the project, Clone the repository:
 
 git clone https://github.com/onwebs-team/onwebs.git
-
-2. Install the dependencies:
-npm install
-
-3. Start the development server:
-npm start
 
 ## Usage
 
